@@ -6,4 +6,5 @@
 * Aquaman
 * Mujer Maravilla
 * Linterna verde
+* Mazzinger Z
 
